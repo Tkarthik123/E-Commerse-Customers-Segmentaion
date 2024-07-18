@@ -1,9 +1,12 @@
-#E-commerce Customer Segmentation
+**E-commerce Customer Segmentation**
+
 Overview
+
 The E-commerce Customer Segmentation project aims to analyze and categorize customers into distinct segments based on their purchasing behaviors and demographic attributes. This segmentation enables personalized marketing strategies, enhances customer engagement, and drives business growth through targeted campaigns.
 
-Key Features
-Data Collection and Preparation:
+**Key Features**
+
+**Data Collection and Preparation:**
 
 Collect customer data including transaction histories, demographic information, and website interactions.
 Clean and preprocess the data to ensure accuracy and consistency.
